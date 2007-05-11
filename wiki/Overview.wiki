@@ -1,5 +1,5 @@
 #summary Overview of SyntaxHighlighter.
-#labels Featured,overvoew
+#labels Featured
 
 = Introduction =
 
