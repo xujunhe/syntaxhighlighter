@@ -17,4 +17,4 @@ In project related news, I have moved the whole thing on Google code and using [
 
 == Download ==
 
-You can grab latest version on the Downloads page.
+You can grab latest version on the [http://code.google.com/p/syntaxhighlighter/downloads/list Downloads] page.
