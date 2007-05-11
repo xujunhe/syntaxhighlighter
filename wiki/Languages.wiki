@@ -1,5 +1,5 @@
 #summary List of supported languages.
-#labels Documentation
+#labels Documentation,Featured
 
 = Supported languages =
 
