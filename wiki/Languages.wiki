@@ -1,5 +1,5 @@
 #summary List of supported languages.
-#labels Phase-Design
+#labels Documentation
 
 = Supported languages =
 
@@ -18,4 +18,3 @@ Here's a list of supported languages and their aliases:
   * XML/HTML ( `xml`, `html`, `xhtml`, `xslt` )
 
 See [Usage] on how to use aliaces.
-
