@@ -14,3 +14,7 @@ In project related news, I have moved the whole thing on Google code and using [
   * Supporting `<pre>` by default with legacy support for `<textarea>`
   * [Clipboard Flash "copy to clipboard" function]
   * Reduced the size of the main CSS
+
+== Download ==
+
+You can grab latest version on the Downloads page.
