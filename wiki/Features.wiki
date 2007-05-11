@@ -1,0 +1,11 @@
+#summary Summary of features.
+#labels Documentation,Featured
+
+= SyntaxHighlighter features =
+
+  * 100% client side, no server dependency
+  * Multiple [Languages languages] support
+  * Easy to [Usage use and deploy], just copy files and link them in your templates
+  * Wide browser support
+  * Very lightweight, compressed core library is 11kb plus whatever [Brushes brushes] you need.
+
