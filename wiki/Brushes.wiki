@@ -5,7 +5,7 @@
 
 == What are they? ==
 
-_Brushes_, is a term I made up to call highlighters scripts for individual languages. SyntaxHighlighter uses modular approach and consists of core library `shCore.js` and a number of brushes which look like `shBrushXml.js`, `shBrushCss.js` and so on.
+_Brushes_, is a term I made up to call highlighters scripts for individual languages. SyntaxHighlighter uses modular approach and consists of core library `shCore.js` and a number of brushes which look like [http://syntaxhighlighter.googlecode.com/svn/trunk/Scripts/shBrushJScript.js shBrushXml.js], [http://syntaxhighlighter.googlecode.com/svn/trunk/Scripts/shBrushCss.js shBrushCss.js] and so on.
 
 == How do they work? ==
 
