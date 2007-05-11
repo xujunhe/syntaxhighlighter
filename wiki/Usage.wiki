@@ -1,5 +1,5 @@
 #summary How to use SyntaxHighlighter.
-#labels Phase-Design
+#labels Phase-Design,Featured
 
 = Introduction =
 
