@@ -1,4 +1,4 @@
-#summary Overview.
+#summary Overview of SyntaxHighlighter.
 #labels Featured,overvoew
 
 = Introduction =
