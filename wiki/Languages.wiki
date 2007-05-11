@@ -4,17 +4,21 @@
 = Supported languages =
 
 Here's a list of supported languages and their aliases:
-  * C++ ( `cpp`, `c`, `c++` )
-  * C# ( `c#`, `c-sharp`, `csharp` )
-  * CSS ( `css` )
-  * Delphi ( `delphi`, `pascal` )
-  * Java ( `java` )
-  * JavaScript ( `js`, `jscript`, `javascript` )
-  * PHP ( `php` )
-  * Python ( `py`, `python` )
-  * Ruby ( `rb`, `ruby`, `rails`, `ror` )
-  * Sql ( `sql` )
-  * VB ( `vb`, `vb.net` )
-  * XML/HTML ( `xml`, `html`, `xhtml`, `xslt` )
 
-See [Usage] on how to use aliaces.
+|| *Language* || *Aliases* ||
+|| C++ || `cpp`, `c`, `c++` ||
+|| C# || `c#`, `c-sharp`, `csharp` ||
+|| CSS || `css` ||
+|| Delphi || `delphi`, `pascal` ||
+|| Java || `java` ||
+|| Java Script || `js`, `jscript`, `javascript` ||
+|| PHP || `php` ||
+|| Python || `py`, `python` ||
+|| Ruby || `rb`, `ruby`, `rails`, `ror` ||
+|| Sql || `sql` ||
+|| VB || `vb`, `vb.net` ||
+|| XML/HTML || `xml`, `html`, `xhtml`, `xslt` ||
+
+See [Usage usage page] on how to use aliaces.
+
+
