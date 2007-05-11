@@ -39,10 +39,7 @@ There's a way to pass a few [Configuration configuration options] to the code bl
 Finally, to get the whole thing to render properly on the page, you have to add JavaScript to the page. 
 
 {{{
-<!-- style sheet should be linked at the top of the page -->
 <link type="text/css" rel="stylesheet" href="css/SyntaxHighlighter.css"></link>
-
-<!-- the following code should be place at the bottom of the page -->
 <script language="javascript" src="js/shCore.js"></script>
 <script language="javascript" src="js/shBrushCSharp.js"></script>
 <script language="javascript" src="js/shBrushXml.js"></script>
@@ -52,4 +49,4 @@ dp.SyntaxHighlighter.HighlightAll('code');
 </script>
 }}}
 
-For optimal result, place this code at the very end of your page.
+For optimal result, place this code at the very end of your page. Check HighlightAll for more details about the function.
