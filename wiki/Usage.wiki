@@ -1,14 +1,28 @@
 #summary How to use SyntaxHighlighter.
 #labels Phase-Design,Featured
 
-= Introduction =
+= Usage =
 
-Add your content here.
+== Placing the code ==
 
+Place your code on the page and surround it with `<pre>` tag. Set `name` 
+attribute to `code` and `class` attribute to one of the [Languages language aliases] you wish to use.
 
-= Details =
+{{{
+<pre name="code" class="c-sharp">
+... some code here ...
+</pre>
+}}}
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+*NOTE:* One important thing to watch out for is opening triangular bracket `<`. It must be replaced with an HTML equivalent of `&lt;` in all cases. Failure to do won't break the page, but might break the source code displayed.
+
+An alternative to `<pre>` is to use `<textarea>` tag. There are no problems with `<` character in that case. The main problem is that it doesn't look as good as `<pre>` tag if for some reason JavaScript didn't work (in RSS feed for example).
+
+{{{
+<textarea name="code" class="c#" cols="60" rows="10">
+... some code here ...
+</textarea>
+}}}
+
+== Extended configuration ==
+
