@@ -44,7 +44,7 @@ Finally, to get the whole thing to render properly on the page, you have to add 
 <script language="javascript" src="js/shBrushCSharp.js"></script>
 <script language="javascript" src="js/shBrushXml.js"></script>
 <script language="javascript">
-dp.SyntaxHighlighter.ClipboardSwf = 'flash/';
+dp.SyntaxHighlighter.ClipboardSwf = '/flash/clipboard.swf';
 dp.SyntaxHighlighter.HighlightAll('code');
 </script>
 }}}
