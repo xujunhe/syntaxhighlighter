@@ -25,4 +25,4 @@ If you try to get HTML from `<pre>` using `innerHTML` property, it's not going t
 
 == Conclusion ==
 
-This brings me to the final point. With `<textarea>` you can copy and paste source code without any alterations. With `<pre>` you have to make sure your source code won't be recognized as HTML, which means you have to replace every opening triangular bracket `<` with it's HTML encoded version `&lt;`. This is enough to make `<pre>` work fine.
+This brings me to the final point. With `<textarea>` you can copy and paste source code without any alterations. *With `<pre>` you have to make sure your source code won't be recognized as HTML, which means you have to replace every opening triangular bracket `<` with it's HTML encoded version `&lt;`. This is enough to make `<pre>` work fine.*
