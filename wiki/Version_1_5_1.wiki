@@ -1,0 +1,24 @@
+#summary Version 1.5.1 release notes.
+
+= Version 1.5.1 release notes =
+
+1.5.1 is a bug fix release. 
+
+==Fixed issues==
+
+  * Issue #3
+  * Issue #4
+  * Issue #6
+  * Issue #7
+  * Issue #8
+  * Issue #9
+  * Issue #14
+  * Issue #15
+  * Issue #16
+  * Issue #18
+  * Issue #19
+  * Issue #23
+
+==New features==
+
+  * BloggerMode
