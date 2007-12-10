@@ -1,0 +1,5 @@
+#summary SyntaxHighlighter spotted on the web
+
+= SyntaxHighlighter used on... =
+
+  * [http://developer.yahoo.com/yui/ Yahoo Developer Network]
