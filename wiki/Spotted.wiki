@@ -3,3 +3,4 @@
 = SyntaxHighlighter used on... =
 
   * [http://developer.yahoo.com/yui/ Yahoo Developer Network]
+  * [http://www.aptana.com/node/336 Aptana]
