@@ -10,7 +10,6 @@ These options allow you to individually configure text blocks.
 || `collapse` || Will collapse the block by default. ||
 || `firstline[value]` || Will begin line count at `value`. Default value is 1. ||
 || `showcolumns` || Will show row columns in the first line. ||
-|| `smart-tabs-size` || Sets tab size. Default value is 4. ||
 
 The options are passed together with the [Languages alias] and are separated by a colon `:` character.
 
